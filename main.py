@@ -25,9 +25,9 @@ template_id_day = "ItwraaFoYa019qpXLIIUWdzswbRhO9O5YQJGDbhcoos"
 # 晚上模板id
 template_id_night = "Uvjhm818LcMsAiB_6SV97FOQAevTNuddcYj_Av1z_aA"
 # 呢称
-name = 'NAME'
+name = '轩轩'
 # 城市
-city = 'CITY'
+city = '武汉'
 
 # 当前时间
 today = datetime.now()
