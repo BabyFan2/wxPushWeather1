@@ -10,24 +10,24 @@ import os
 
 
 # 哪天在一起的
-start_date = os.environ['2024-11-01']
+start_date = '2024-11-01'
 # 和风天气key
-appKey = os.environ['4FTJXP8EHB']
+appKey = '4FTJXP8EHB'
 # 生日
-birthday = os.environ['03-10']
+birthday = '03-10'
 # 微信公众号的appid和app_secret
-app_id = os.environ["wx63f64bed66104250"]
-app_secret = os.environ["f0ffd57415571a2f7dda66f3c7fc4c16"]
+app_id = "wx63f64bed66104250"
+app_secret = "f0ffd57415571a2f7dda66f3c7fc4c16"
 # 微信公众号的user_id,多个用;（分号）隔开
-user_ids = os.environ["o49vl6-8HkW61Il7HgvGVStGbxps"]
+user_ids = "o49vl6-8HkW61Il7HgvGVStGbxps"
 # 白天模板id
-template_id_day = os.environ["ItwraaFoYa019qpXLIIUWdzswbRhO9O5YQJGDbhcoos"]
+template_id_day = "ItwraaFoYa019qpXLIIUWdzswbRhO9O5YQJGDbhcoos"
 # 晚上模板id
-template_id_night = os.environ["Uvjhm818LcMsAiB_6SV97FOQAevTNuddcYj_Av1z_aA"]
+template_id_night = "Uvjhm818LcMsAiB_6SV97FOQAevTNuddcYj_Av1z_aA"
 # 呢称
-name = os.environ['NAME']
+name = 'NAME'
 # 城市
-city = os.environ['CITY']
+city = 'CITY'
 
 # 当前时间
 today = datetime.now()
